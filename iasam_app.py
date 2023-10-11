@@ -799,4 +799,4 @@ def on_ui_tabs():
 
 
 block, _, _ = on_ui_tabs()[0]
-block.launch()
+block.launch(share=True)
