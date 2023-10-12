@@ -52,7 +52,7 @@ def get_inp_model_ids():
         "Uminosachi/dreamshaper_8Inpainting",
         "Uminosachi/deliberate_v3-inpainting",
         "Uminosachi/realisticVisionV51_v51VAE-inpainting",
-        "geekedits/absoluterealityimpainting",
+        "eqawqw/absolutereality_v181INPAINTING",
         "runwayml/stable-diffusion-inpainting",
     ]
     if inp_list_from_cache is not None and isinstance(inp_list_from_cache, list):
