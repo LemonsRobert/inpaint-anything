@@ -54,6 +54,7 @@ def get_inp_model_ids():
         "Uminosachi/realisticVisionV51_v51VAE-inpainting",
         "Uminosachi/revAnimated_v121Inp-inpainting",
         "runwayml/stable-diffusion-inpainting",
+        "invisiblecat/Uber_Realistic_Porn_Merge_V1.3_inpainting",
     ]
     if inp_list_from_cache is not None and isinstance(inp_list_from_cache, list):
         model_ids.extend(inp_list_from_cache)
